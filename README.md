@@ -11,13 +11,13 @@ The published site can be accessed at: [jast-dashboards.shinyapps.io/canadian_wi
 ### Purpose
 This project is a portfolio piece designed to demonstrate the following skills:
 
-*General data wrangling\
-*Manipulation of spatial data using GIS tools (sf and terra)\
-*Use of R scripting language\
-*Visual storytelling with data\
-*Mapping both feature and image spatial data\
-*Intuitive interactive dashboard design\
-*Clean coding practices\
+* General data wrangling\
+* Manipulation of spatial data using GIS tools (sf and terra)\
+* Use of R scripting language\
+* Visual storytelling with data\
+* Mapping both feature and image spatial data\
+* Intuitive interactive dashboard design\
+* Clean coding practices
 
 
 ### Files
@@ -25,7 +25,7 @@ This project is a portfolio piece designed to demonstrate the following skills:
 
 **app_wildfires.R:** contains the shiny app structure, page layout and stylistic theming\
 **global.R:** loads libraries and data used across all modules in the app\
-**map.R:** contains the ui and server for the map tab of the shiny app including code for all of the elements visiable of the page, reactivity to handle user inputs, and the Leaflet map and Plotly plot design and functionality\
+**map.R:** contains the ui and server for the map tab of the shiny app including code for all of the elements visiable of the page, reactivity to handle user inputs, and the Leaflet map and Plotly plot design and functionality
 
 
 ### Data Sources
@@ -33,4 +33,4 @@ The wildfire dataset behind this project is a compilation of records collected b
 
 **Wildfire Data:** Natural Resources Canada, Canadian Forest Service. Canadian National Fire Database – Agency Fire Data. https://cwfis.cfs.nrcan.gc.ca/ha/nfdb \
 **Temperature Data:** Environment and Climate Change Canada. Meteorological Service of Canada GeoMet-Climate WMS. https://eccc-msc.github.io/open-data/msc-geomet/readme_en/ \
-**Land Cover Data:** Natural Resources Canada, Canada Centre for Remote Sensing. Landcover 2015. https://geoappext.nrcan.gc.ca/arcgis/rest/services/FGP/canada_landcover_2015_en/MapServer \
+**Land Cover Data:** Natural Resources Canada, Canada Centre for Remote Sensing. Landcover 2015. https://geoappext.nrcan.gc.ca/arcgis/rest/services/FGP/canada_landcover_2015_en/MapServer 
