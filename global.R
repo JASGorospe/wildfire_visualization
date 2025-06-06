@@ -1,3 +1,11 @@
+# Title: Canadian Wildfire Visualization - Global
+# Contributor: Julia Gorospe
+# Created: 2025-05-12
+# Updated: 2025-06-06
+# R version 4.3.2 (2023-10-31)
+# Platform: aarch64-apple-darwin20 (64-bit)
+# Running under: macOS Monterey 12.5.1
+
 # Libraries ---------------------------------------------------------------------------------------
 
 # trouble-shooting Mac PATH error: https://stackoverflow.com/questions/76929900/cannot-install-r-packages-on-rstudio-macbook-pro-m1-chip
