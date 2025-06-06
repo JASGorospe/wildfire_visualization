@@ -11,12 +11,12 @@ The published site can be accessed at: [jast-dashboards.shinyapps.io/canadian_wi
 ### Purpose
 This project is a portfolio piece designed to demonstrate the following skills:
 
-* General data wrangling\
-* Manipulation of spatial data using GIS tools (sf and terra)\
-* Use of R scripting language\
-* Visual storytelling with data\
-* Mapping both feature and image spatial data\
-* Intuitive interactive dashboard design\
+* General data wrangling
+* Manipulation of spatial data using GIS tools (sf and terra)
+* Use of R scripting language
+* Visual storytelling with data
+* Mapping both feature and image spatial data
+* Intuitive interactive dashboard design
 * Clean coding practices
 
 
